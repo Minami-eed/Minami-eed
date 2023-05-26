@@ -1,7 +1,6 @@
-<h1 align="center">Hi, guys!</h1>
+<h1 align="center">Welcome to my profile!</h1>
 
 <p align="center">
-    <b>Welcome to my profile!</b><br><br>
     <i>
         I'm Minami.<br>
         Currently learning to walk without falling on my bottom.<br>
